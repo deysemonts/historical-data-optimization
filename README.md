@@ -8,7 +8,7 @@
 **Redução de ~82% no tempo de processamento**
 (40 minutos → 7 minutos)
 
----
+
 
 ## Sobre o projeto
 
@@ -23,13 +23,13 @@ Impactos percebidos:
 - Lentidão nos dashboards
 - Experiência ruim para o usuário final
 
----
+
 
 ## Objetivo
 
 Reduzir o tempo de processamento das consultas e melhorar a eficiência das análises.
 
----
+
 
 ## Solução
 
@@ -40,7 +40,7 @@ Processo em Python + SQL que:
 - Mantém no banco apenas dados recentes
 - Permite consultas mais leves e rápidas
 
----
+
 
 ## Tecnologias
 
@@ -51,7 +51,7 @@ Processo em Python + SQL que:
 - Pandas  
 - Parquet  
 
----
+
 
 ## Impacto no negócio
 
